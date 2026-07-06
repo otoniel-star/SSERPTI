@@ -64,7 +64,8 @@ Não é necessária a instalação de um servidor local.
 *(Arraste as imagens do seu computador para cá. O GitHub vai gerar automaticamente um link para elas)*
 
 *   **Tela Inicial do Painel Web:**
-    `[Insira o print da tela do site aqui]`
+    `[<img width="738" height="1600" alt="WhatsApp Image 2026-07-06 at 7 41 32 PM" src="https://github.com/user-attachments/assets/ca5e0505-6f62-4311-9116-79fcd10b2bd4" />
+]`
 *   **Coleta via Câmera (App Mobile):**
     `[Insira o print do app lendo o código de barras aqui]`
 
