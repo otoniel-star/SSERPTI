@@ -28,10 +28,10 @@ A arquitetura do sistema é híbrida e foi desenvolvida para rodar com o máximo
 *   **ZXing Android Embedded:** Biblioteca de visão computacional para decodificação de códigos de barras.
 *   **SQLite:** Banco de dados relacional embarcado para registro temporário da coleta.
 
-**Módulo Validador (Web)**
-*   **HTML5 & CSS3:** Estruturação e estilização do painel administrativo.
-*   **JavaScript (Vanilla):** Lógica de negócios no lado do cliente (*client-side*), processamento de arquivos `.txt/.csv` e validação de regras de interface.
-*   **IndexedDB:** Persistência de dados diretamente no navegador.
+**Módulo Validador (API e Web)**
+*   **Python (FastAPI):** Backend estruturado (com rotas, serviços e repositórios) responsável pela lógica de negócios e processamento de dados do lote.
+*   **HTML5, CSS3 & JavaScript:** Estruturação da interface administrativa gerencial.
+*   **SQLite / IndexedDB:** Persistência de dados para suporte da operação offline-first.
 
 ---
 
